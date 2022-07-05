@@ -176,7 +176,7 @@ button {
 
 .score-container .logo {
   flex: 1;
-  background-image: url(../../images/logo.svg);
+  background-image: url(../images/logo.svg);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: left center;
@@ -241,7 +241,7 @@ button {
 .trio {
   flex: 1;
   width: 100%;
-  background-image: url(../../images/bg-triangle.svg);
+  background-image: url(../images/bg-triangle.svg);
   background-size: 16em;
   background-repeat: no-repeat;
   background-position: center;
@@ -334,15 +334,15 @@ button {
 }
 
 .circle-outer .paper {
-  background-image: url(../../images/icon-paper.svg);
+  background-image: url(../images/icon-paper.svg);
 }
 
 .circle-outer .scissors {
-  background-image: url(../../images/icon-scissors.svg);
+  background-image: url(../images/icon-scissors.svg);
 }
 
 .circle-outer .rock {
-  background-image: url(../../images/icon-rock.svg);
+  background-image: url(../images/icon-rock.svg);
 }
 
 .paper-outer {
@@ -416,15 +416,15 @@ button {
 }
 
 #active .paper {
-  background-image: url(../../images/icon-paper.svg);
+  background-image: url(../images/icon-paper.svg);
 }
 
 #active .scissors {
-  background-image: url(../../images/icon-scissors.svg);
+  background-image: url(../images/icon-scissors.svg);
 }
 
 #active .rock {
-  background-image: url(../../images/icon-rock.svg);
+  background-image: url(../images/icon-rock.svg);
 }
 
 #active .paper,
